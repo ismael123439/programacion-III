@@ -13,5 +13,4 @@ def acceder_indice():
     except ValueError:
         print("Error: El índice debe ser un número entero.")
 
-# Llamar a la función para ejecutar el programa
 acceder_indice()
